@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+-- https://discord.gg/YNTCvUQQX2
 
 
 shared.LoaderTitle = "Sinon Hub Beta";
